@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {{> head }}
+    <link href="https://fonts.googleapis.com/css?family=Baloo" rel="stylesheet">
+    <style></style>
+</head>
+<body>
+
+    <section class="hero is-primary is-small is-bold">
+    <!-- Hero header: will stick at the top -->
+    <div class="hero-head is-small">
+      <header class="nav">
+        <div class="container">
+          <div class="nav-left">
+            <a href="/" class="nav-item">
+              {{> logo-src}}
+            </a>
+          </div>
+          <span class="nav-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+          <div class="nav-right nav-menu">
+            <a href="/privacy-terms" class="nav-item">
+              Terms Of Privacy
+            </a>
+            <a href="/about" class="nav-item is-active">
+              About Us
+            </a>
+            <a href="/team" class="nav-item">
+              The Team
+            </a>
+            <a href="/ourwork" class="nav-item">
+              Our Work
+            </a>
+          </div>
+        </div>
+      </header>
+    </div>
+      <!-- Hero content: will be in the middle -->
+      <div class="hero-body">
+        <div class="container has-text-centered">
+          <h1 class="title">
+            We're Techxodus, the next in tech!
+          </h1>
+          <h2 class="subtitle">
+            What do we do?.
+          </h2>
+        </div>
+      </div>
+    </section>
+
+...
+
+{{> footer-script }}
+

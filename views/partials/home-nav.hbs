@@ -1,0 +1,86 @@
+
+<nav class="navbar is-warning">
+  <div class="navbar-brand">
+    <a href="/home" class="navbar-item" href="" alt="" width="112" height="28">
+      {{> logo-src}}
+    </a>
+
+    <div class="navbar-burger burger" data-target="navMenu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+
+  <div id="navMenu" class="navbar-menu">
+    <div class="navbar-start">
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link " href="/support">
+          Support
+        </a>
+        <div id="blogDropdown" class="navbar-dropdown is-boxed" data-style="width: 18rem;">
+          
+            <a class="navbar-item" href="/support">
+              <div class="navbar-content">
+                <p>
+                  <small class="has-text-info">00-00-0000</small><!-- 03 Aug 2017 -->
+                </p>
+                <p>No messages yet</p><!-- New feature: list of tags -->
+              </div>
+            </a>
+
+          <hr class="navbar-divider">
+
+          <div class="navbar-item">
+            <div class="navbar-content">
+              <div class="level is-mobile">
+                <div class="level-left">
+                  <div class="level-item">
+                    <strong>Stay up to date!</strong>
+                  </div>
+                </div>
+                <div class="level-right">
+                  <div class="level-item">
+                    <a class="button bd-is-rss is-small" href="/support">
+                      <span class="icon is-small">
+                        <i class="fa fa-envelope-o"></i>
+                      </span>
+                      <span>contact us</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="navbar-end">
+<!--       <a class="navbar-item is-hidden-desktop-only" href="https://github.com/jgthms/bulma" target="_blank">
+        <span class="icon" style="color: #333;">
+          <i class="fa fa-github"></i>
+        </span>
+      </a>
+      <a class="navbar-item is-hidden-desktop-only" href="https://twitter.com/jgthms" target="_blank">
+        <span class="icon" style="color: #55acee;">
+          <i class="fa fa-twitter"></i>
+        </span>
+      </a> -->
+      <div class="navbar-item">
+        <div class="field is-grouped">
+          <p class="control">
+            <a class="button is-danger is-small is-rounded" href="/signout">
+              <span class="icon">
+                <i class="fa fa-power-off"></i>
+              </span>
+              <span> Signout</span>
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,8 @@
+{
+  "name": "Techxodus",
+  "description": "A tech starup based in Lagos, Nigeria",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["tech, web-dev, developer, seo, social-media-management"],
+  "image": "heroku/nodejs"
+}

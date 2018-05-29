@@ -1,0 +1,501 @@
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9 ie8" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie9" lang="en"> <![endif]-->
+<!--[if IE 10]> <html class="ie10" lang="en"> <![endif]-->
+<!--[if (gt IE 10)|!(IE)]> <html lang="en"> <![endif]-->
+<!DOCTYPE html>
+<html lang="en" style="overflow-y: hidden;">
+    <head>
+		<title>Digital Agency | Website Design Company NYC | Crafted</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    
+		<meta charset="utf-8">
+		<meta name="title" 						content="Digital Agency | Website Design Company NYC | Crafted">
+		<meta name="description" 				content="Crafted is NYC's top digital design agency, leading in digital marketing and web design. Contact us at 347-435-2269 to learn more.">
+		<meta name="keywords" 					content="Digital Agency, Digital Marketing Agency,">
+		
+		
+		<meta property="fb:app_id"          	content="238919813107058" /> 
+		<meta property="og:type"            	content="company" /> 
+		<meta property="og:url" 				content="https://www.craftedny.com">
+		<meta property="og:title" 				content="Digital Agency | Website Design Company NYC | Crafted">
+		<meta property="og:image" 				content="http://www.craftedny.com/img/home_social.jpg">
+		<meta property="og:image:secure_url" 	content="https://www.craftedny.com/img/home_social.jpg">
+		<meta property="og:description" 		content="Crafted is NYC's top digital design agency, leading in digital marketing and web design. Contact us at 347-435-2269 to learn more.">		
+	    <meta property="og:locale" 				content="en_US">
+	    <meta property="og:site_name" 			content="Crafted">
+	
+		<meta name="twitter:site:id" 			content="384565028">
+		<meta name="twitter:title" 				content="Digital Agency | Website Design Company NYC | Crafted">
+		<meta name="twitter:description" 		content="Crafted is NYC's top digital design agency, leading in digital marketing and web design. Contact us at 347-435-2269 to learn more.">
+		<meta name="twitter:image" 				content="http://www.craftedny.com/img/home_social.jpg">
+		<meta name="twitter:url" 				content="https://www.craftedny.com">
+		<meta name="twitter:card" 				content="summary">
+		<meta name="twitter:creator" 			content="@craftedny">
+		<meta name="twitter:site" 				content="@craftedny">
+		
+		
+		<meta name="p:domain_verify" content="282279ab352c9565f97be91c40e4d9a7"/>
+		<link rel="canonical" href="../index.html"/>
+		<link rel="publisher" href="https://plus.google.com/+craftedNewYork/">
+		<meta name="google-site-verification" content="piPjUSKIbaflIYKrBeyi47HzZpVqmjyPBsqcfqi76pE" />
+
+	    <meta name="robots" content="index, follow">
+	    <meta name="author" content="Crafted">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" href="../ico/favicon.ico@v=2">
+		
+		<!--Gotham Font-->
+		<link rel="stylesheet" href="https://cloud.typography.com/7300534/6404772/css/fonts.css" media="none" onload="if(media!='all')media='all'"><noscript><link rel="stylesheet" href="https://cloud.typography.com/7300534/6404772/css/fonts.css"></noscript>
+		
+	    <!-- Bootstrap core CSS -->
+        <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css" media="none" onload="if(media!='all')media='all'"><noscript><link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css"></noscript>
+
+        <!--flex slider css-->
+        <link rel="stylesheet" href="../css/flexslider.min.css" media="none" onload="if(media!='all')media='all'"><noscript><link rel="stylesheet" href="../css/flexslider.min.css"></noscript>
+	
+        <!--custom css-->
+        <link rel="stylesheet" href="../css/style.min.css" media="none" onload="if(media!='all')media='all'"><noscript><link rel="stylesheet" href="../css/style.min.css"></noscript>
+
+
+        <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="/js/respond.min.js"></script>
+        <![endif]-->
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-26817866-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TQ234XS');</script>
+<!-- End Google Tag Manager -->
+
+
+		<script type="application/ld+json">
+		{ 
+			"@context": "https://schema.org",
+			"@type": "LocalBusiness",
+			"address":{
+				"@type": "PostalAddress",
+				"addressLocality": "New York",
+				"addressRegion": "NY",
+				"postalCode": "10017",
+				"streetAddress": "450 Lexington Avenue"
+			},
+			"name": "Crafted",
+			"description": "Crafted is New York City’s leading website design and mobile application development agency.",
+			"url": "https://www.craftedny.com",
+			"telephone": "347-435-2269",
+			"email": "hello@craftedny.com",
+			"logo": "https://www.craftedny.com/img/crafted_social_logo.jpg",
+			"geo": {
+		    "@type": "GeoCoordinates",
+		    "latitude": "40.7507837",
+		    "longitude": "-73.9758882"},
+			"sameAs" : [ 
+				"https://twitter.com/craftedny",
+				"https://www.facebook.com/craftedny",
+				"https://instagram.com/craftedny/",
+				"https://www.linkedin.com/company/crafted-ny"
+				]
+		}
+		</script>
+		
+		<style>
+			.preloader {
+			    position: fixed;
+			    top: 0px;
+			    left: 0px;
+			    width: 100%;
+			    height: 100%;
+			    background-color: #031e32;
+			    text-align: center;
+			    z-index: 9999999;
+			}
+			.preloader .spinner {
+			    width: 139px;
+			    height: 49px;
+			    text-align: center;
+			    position: absolute;
+			    left: 0;
+			    right: 0;
+			    top: 0;
+			    bottom: 0;
+			    margin: auto;
+			}
+			.loader-logo{
+				float:left;
+			}
+			.loader-logo img{
+				width:139px;
+				height:auto;
+			}
+		</style>
+		
+
+
+    </head>
+
+	<body data-spy="scroll" data-target="#navigation" data-offset="80">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TQ234XS"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+    <div class="preloader">
+		<div class="spinner">
+          	<div class="loader-logo"><img src="crafted_logo.svg"></div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+<div class="menu-bg"></div>
+<div class="menu-burger"><button class="c-hamburger c-hamburger--htx">
+  <span>toggle menu</span>
+</button></div>
+<div class="menu-items">
+	<ul>
+					<li class="active"><a alt="web-app-design-development" href="../index.html">Home</a></li>
+			<li><a alt="website-design-and-development-agency-nyc" href="../our_work.php">Work</a></li>
+			<li><a alt="digital-marketing-agency-nyc" href="../digital-marketing-agency-nyc.1">Services</a></li>
+			<li><a alt="digital-marketing-agency-new-york-city" href="../design-agency-new-york-city/index.html">About</a></li>
+			<li><a alt="digital-marketing-creative-agency-nyc" href="../digital-marketing-creative-agency-nyc.1">Contact</a></li>
+			</ul>
+</div>
+
+<section id="home" class="carousel-100 blue-bk">
+	<div class="fullscreen-slide">
+	<div class="fullscreen-slide-cell tour-one">
+		<div class="wow fadeInUp fullscreen-slide-center text-center col-sm-12" data-wow-delay="1s">
+			<img src="crafted_logo.svg" alt="digital-agency-marketing-design" width="200px" height="auto" class="intro-logo mar-bot-15">
+			<h3 class="h3-hero white pad-bot-10">We make digital beautiful</h3>
+			<p class="white max-460">Top New York City based <strong>digital design agency</strong> producing beautifully crafted websites and native apps for startups and fortune 100 brands.</p> 
+		</div>
+	</div>
+	<div class="see-more-button seeMore"><i></i></div>
+	</div>
+
+</section>
+	
+
+
+<!-- Portfolio
+================================================== -->
+<section id="projects" class="text-center white-bk">
+  	<div class="container-90 padding-100">
+	      <div class="wow fadeInUp col-lg-12 pad-bot-50" data-wow-delay=".15s">
+	        	<h1 class="pad-bot-20 text-uppercase wide">Digital Agency</h1>
+		</div><!-- /.col-lg-12 -->
+		<div class="wow fadeInUp col-md-4 col-xs-6 worktout no-pad" data-wow-delay=".15s"><a href="../website-design-agency-nyc-new-york-times/index.html"><img src="nytimes_thumb.jpg" alt="website-design-agency-nyc-new-york-times"></a></div><div class="wow fadeInUp col-md-4 col-xs-6 worktout no-pad" data-wow-delay=".15s"><a href="../responsive-ux-ui-design-nyc-revolt/index.html"><img src="revolt_thumb.jpg" alt="responsive-ux-ui-design-nyc-revolt"></a></div><div class="wow fadeInUp col-md-4 col-xs-6 worktout no-pad" data-wow-delay=".15s"><a href="../ecommerce-shopping-cart-website-design-agency-nyc-works-gallery/index.html"><img src="wg_thumb.jpg" alt="ecommerce-shopping-cart-website-design-agency-nyc-works-gallery"></a></div><div class="wow fadeInUp col-md-4 col-xs-6 worktout no-pad" data-wow-delay=".15s"><a href="../creative-design-agency-nyc-nba-league-pass/index.html"><img src="nba_thumb.jpg" alt="creative-design-agency-nyc-nba-league-pass"></a></div><div class="wow fadeInUp col-md-4 col-xs-6 worktout no-pad" data-wow-delay=".15s"><a href="../app-design-development-agency-nyc-musicfolio/index.html"><img src="mf_thumb.jpg" alt="app-design-development-agency-nyc-musicfolio"></a></div><div class="wow fadeInUp col-md-4 col-xs-6 worktout no-pad" data-wow-delay=".15s"><a href="../website-design-agency-nyc-portfolio-banana-republic/index.html"><img src="br_thumb.jpg" alt="website-design-agency-nyc-portfolio-banana-republic"></a></div>		
+	</div>
+
+</section><!-- Capabilities Section
+================================================== -->
+<section id="see-all-work" class="">
+			<div class="wow fadeInUp col-sm-6 col-xs-12 blue2-bk text-center padding-80">
+				<img src="umbrella.svg" class="umbrella">
+	    		<h3 class="h3-norm white text-uppercase pad-bot-20">Our Capabilities</h2>
+				<a href="../digital-marketing-agency-nyc.1" alt="website-design-mobile-app-development-agency-nyc" class="btn btn-lg btn-theme-color white text-uppercase">Explore OUR SERVICES</a>
+			</div>
+			<div class="wow fadeInUp col-sm-6 col-xs-12 blue-bk text-center padding-80">
+				<img src="portfolio-outline.svg" class="portfolio">
+	    		<h3 class="h3-norm white text-uppercase pad-bot-20">Our Featured WORK</h2>
+				<a href="../website-design-mobile-app-development-agency-nyc-portfolio/index.html" alt="website-design-mobile-app-development-agency-nyc" class="btn btn-lg btn-theme-color white text-uppercase">See more work</a>
+			</div>
+			<div class="clr">
+</section>
+
+
+
+<!-- Development Section
+================================================== -->
+<section id="recognition" class="content text-center lt-grey-bk">
+	<div class="container padding-100">
+		<div class="wow fadeInUp col-lg-12">
+			<h2 class="h2-hero pad-bot-10 text-uppercase wide">Design Recognition</h2>
+			<p class="pad-bot-30">Some cool organizations who have recognized our work and agency.</p>
+		</div><!-- /.col-lg-12 -->
+
+		<div class="wow fadeInUp col-md-3 col-xs-6 text-center pad-bot-30">
+			<a href="http://www.awwwards.com/crafted/" target="_blank" alt="AWWWards">
+				<div class="icon-box">
+					<img alt="awwwards-logo" src="awwwards.svg" class="cap_svg">
+				</div>
+			</a>
+		</div>
+	
+		<div class="wow fadeInUp col-md-3 col-xs-6 text-center pad-bot-30">
+			<a href="http://www.cssdesignawards.com/sites/ny-times-corporate-subscriptions/26078/" target="_blank" alt="CSS Design Awards">
+				<div class="icon-box">
+					<img alt="css-design-awards-logo" src="css.svg" class="cap_svg">
+				</div>	
+			</a>
+		</div>
+	
+		<div class="wow fadeInUp col-md-3 col-xs-6 text-center pad-bot-30">
+			<a href="http://www.thefwa.com/" target="_blank" alt="Favourite Website Awards">
+				<div class="icon-box">
+					<img alt="favorite-website-award-logo" src="fwa.svg" class="cap_svg">
+				</div>
+			</a>
+		</div>
+	
+		<div class="wow fadeInUp col-md-3 col-xs-6 text-center pad-bot-30">
+			<a href="http://www.topinteractiveagencies.com/digital/agency/north-america/united-states/crafted/" target="_blank" alt="Top Interactive Agencies in NYC">
+				<div class="icon-box">
+					<img alt="top-interactive-agency-logo" src="tia.svg" class="cap_svg">
+				</div>
+			</a>
+		</div>
+	
+	</div>
+</section>
+<!-- Clients Section
+================================================== -->
+<section id="clients" class="text-center white-bk">
+
+  <div class="container padding-100">
+    <!-- Three columns of text below the carousel -->
+      <div class="wow fadeInUp col-lg-12" data-wow-delay=".15s">
+        <h3 class="h3-hero pad-bot-10 text-uppercase wide">Featured Clients</h3>
+		<p class="max-675 pad-bot-50">We believe the direct collaboration with our clients is the essential formula to bring-to-life unique and immersive experiences. 
+			We help our clients solve business problems, increase visibility and help them achieve unexpected results.</p>
+      </div><!-- /.col-lg-12 -->
+
+		<div class="wow fadeInUp col-lg-3 col-sm-3 col-xs-6 text-center"data-wow-delay=".15s">
+			<div class="center-box text-center">
+				<div class="icon-box">
+					<img src="appleinsider-logo.svg" class="icon-100">
+	      	  	</div>
+			</div>
+	    </div>
+	
+		<div class="wow fadeInUp col-lg-3 col-sm-3 col-xs-6 text-center"data-wow-delay=".17s">
+			<div class="center-box text-center">
+				<div class="icon-box">
+					<img alt="bmw-logo" src="bmw-logo.svg" class="icon-100">
+	      		</div>
+      		</div>
+		</div>
+		
+		<div class="wow fadeInUp col-lg-3 col-sm-3 col-xs-6 text-center"data-wow-delay=".18s">
+			<div class="center-box text-center">
+				<div class="icon-box">
+					<img alt="nike-logo"  src="nike-logo.svg" class="icon-85">
+				</div>
+			</div>
+      	</div>
+
+		<div class="wow fadeInUp col-lg-3 col-sm-3 col-xs-6 text-center"data-wow-delay=".19s">
+			<div class="center-box text-center">
+				<div class="icon-box">
+					<img alt="ny-times-logo"  src="ny-times-logo.svg" class="icon-100">
+	      		</div>
+			</div>
+      	</div>
+		<div class="wow fadeInUp col-lg-3 col-sm-3 col-xs-6 text-center"data-wow-delay=".2">
+			<div class="center-box text-center">
+				<div class="icon-box">
+					<img alt="one-paper-lane-logo"  src="one-paper-lane-logo.svg" class="icon-100">
+	      		</div>
+			</div>
+      	</div>
+		<div class="wow fadeInUp col-lg-3 col-sm-3 col-xs-6 text-center"data-wow-delay=".21s">
+			<div class="center-box text-center">
+				<div class="icon-box">
+					<img alt="pavan-liqueur-logo"  src="pavan-liqueur-logo.svg" class="icon-100">
+	      		</div>
+			</div>
+      	</div>
+		<div class="wow fadeInUp col-lg-3 col-sm-3 col-xs-6 text-center"data-wow-delay=".22s">
+			<div class="center-box text-center">
+				<div class="icon-box">
+					<img alt="tishman-speyer-logo"  src="tishman-speyer-logo.svg" class="icon-125">
+				</div>
+			</div>
+      	</div>
+		<div class="wow fadeInUp col-lg-3 col-sm-3 col-xs-6 text-center"data-wow-delay=".23s">
+			<div class="center-box text-center">
+				<div class="icon-box">
+					<img alt="works-gallery-logo"  src="works-gallery-logo.svg" class="icon-75">
+				</div>
+			</div>
+      	</div>
+
+  </div>
+</section>
+
+
+<!-- Capabilities Section
+================================================== -->
+<section id="designed-developed-nyc" class="blue-bk">
+	<div class="container padding-100">
+		<div class="wow fadeInUp col-sm-4 ddnyc">
+			<img class="" alt="digital-agency-marketing-design"src="dandnyc.svg" style="width: 200px; height: auto; margin-bottom:50px;">
+    		<!--<h2 class="white">Exclusively Designed and Developed in NYC</h2>-->
+		</div>
+		
+		<div class="wow fadeInUp col-sm-8 text-left">
+			<h3 class="h3-norm white text-uppercase pad-bot-10">Designed and Developed Exclusively in NYC</h3>
+			<p class="white">At Crafted, we take pride at never outsourcing any work overseas. All of our design and development is handled in New York. We believe small teams that work collaboratively with daily in-person interactions are the key to the best mobile app design and development processes.</p><br />
+		
+			<h3 class="h3-norm white text-uppercase pad-bot-10">Featured in <q>Top Interactive Agencies</q></h3>
+			<p class="white">Crafted is ranked <strong>Top Ten Digital Agency</strong> in NYC.</p><br>
+			<a alt="Featured in Top Interactive Agency in NYC" href="http://www.topinteractiveagencies.com/digital/agency/articles/be-founders-lead-team-new-york-digital-agency/" class="btn btn-lg btn-theme-color text-uppercase white">Read The Article</a>
+		</div>
+		
+</section>
+
+<!-- Contact Section
+================================================== -->
+
+<section id="contact" class="white-bk"></div>
+	<div class="container-100 padding-80">
+	      <div class="wow fadeInUp col-sm-12 text-center">
+	        <h3 class="h3-hero pad-bot-10 text-uppercase wide">Let's Work Together</h3>
+			<p class="max-675">Here at Crafted, we hold a passion for innovation, brilliant ideas and the execution that brings them all together in one beautiful experience.</p>
+	      </div>
+	</div>
+	<div class="container-100" style="overflow:hidden;">
+			<div class="wow fadeInUp col-sm-6 col-xs-12 dk-md-blue-bk text-center padding-80" >
+				<div class="icon-box-center">
+					<img alt="digital-agency-marketing-design" src="new-business-contact.svg" class="icon-60">
+				</div>
+				<h3 class="text-uppercase white pad-bot-10">New Business</h3>
+				<p><a href="tel://18444272383">+1 (844) 4-CRAFTED</a></p>
+				<a class="white" href="mailto:hello@craftedny.com?subject=Let's Work Together">hello@craftedny.com</a>
+			</div>
+			<div class="wow fadeInUp col-sm-6 col-xs-12 md-blue-bk text-center padding-80">
+				<div class="icon-box-center">
+				<img alt="digital-agency-marketing-design" src="join-our-team-contact.svg" class="icon-50">
+				</div>
+				<h3 class="text-uppercase white pad-bot-10">Join Our Team</h3>
+				<p><a href="tel://13474352269">+1 (347) 435-2269</a></p>
+				<a class="white" href="mailto:work@craftedny.com?subject=Work at Crafted">work@craftedny.com</a>
+			</div>
+	</div>
+</section>
+
+
+
+ <!-- Footer
+ ================================================== -->
+<a href="https://www.google.com/maps/place/Crafted/@40.753202,-73.9772457,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x3561faf1a5bf212!8m2!3d40.753202!4d-73.975057?hl=en" target="_blank"><div id="map" class="map-section"></div></a>
+
+ <footer id="footer" class="footer blue-bk">
+	<div class="container-80 padding-100">
+			
+				<div class="col-sm-12">
+					<a href="../index.html"><img alt="digital-agency-marketing-design" src="crafted_logo.svg" class="footer-logo pad-bot-20"></a>
+				</div><!--End of col-sm-12-->
+				
+				<div class="col-sm-12 icons pad-bot-20">
+		         		<a alt="digital-agency-marketing-design" href="http://www.twitter.com/craftedny" target="_blank"><i class="fa fa-twitter"></i></a>
+		         		<a alt="digital-agency-marketing-design"href="https://www.facebook.com/craftedny" target="_blank"><i class="fa fa-facebook"></i></a>
+		         		<a alt="digital-agency-marketing-design" href="http://www.instagram.com/craftedny" target="_blank"><i class="fa fa-instagram"></i></a>
+						<a alt="digital-agency-marketing-design" href="https://www.pinterest.com/craftedny/" target="_blank"><i class="fa fa-pinterest"></i></a>
+						<a alt="digital-agency-marketing-design" href="https://www.behance.net/crafted_ny" target="_blank"><i class="fa fa-behance-square"></i></a>
+		         		<a alt="digital-agency-marketing-design" href="https://www.linkedin.com/company/crafted-ny" target="_blank"><i class="fa fa-linkedin"></i></a>
+				</div>	<!--End of col-sm-12-->
+				
+				<div class="col-sm-6 col-xs-12 footer-left pad-bot-50">
+					<ul>
+		            	<li class="white">450 Lexington Avenue, 4th Fl</li>
+						<li class="white">New York City, New York 10017</li>
+						<li class="white"><a href="tel://347-435-2269">+1 (347) 435-2269</a></li>
+						<li class="white"><a href="mailto:hello@craftedny.com?subject=Let's Work Together">hello@craftedny.com</a></li>
+					</ul>
+				</div><!--End of col-sm-6-->
+				
+       			<div class="col-sm-6 col-xs-12 footer-right pad-bot-50">
+					<ul>
+						<li class="footer-link"><a alt="branding-agency-new-york-city" href="../branding-agency-new-york-city/index.html">Branding</a></li>
+						<li class="footer-link"><a alt="digital-marketing-agency-nyc" href="../digital-marketing-agency-nyc.1">Digital Marketing Agency</a></li>
+						<li class="footer-link"><a alt="mobile-app-design-nyc" href="../mobile-app-design-nyc/index.html">Mobile App Design</a></li>
+						<li class="footer-link"><a alt="mobile-app-development-nyc" href="../mobile-app-development-nyc/index.html">Mobile App Development</a></li>						
+						<li class="footer-link"><a alt="seo-agency-company-nyc" href="../seo-agency-company-nyc">SEO &amp; SEM</a></li>
+						<li class="footer-link"><a alt="startup-website-design-development" href="../startup-website-design-development/index.html">Startup Design Studio</a></li>						
+						<li class="footer-link"><a alt="video-production-company-new-york-city" href="../video-production-company-new-york-city/index.html">Video Production</a></li>
+						<li class="footer-link"><a alt="website-design-agency-new-york-city" href="../website-design-and-development-agency-new-york-city/index.html">Website Design</a></li>
+						<li class="footer-link"><a alt="website-development-agency-nyc" href="../website-development-agency-nyc/index.html">Website Development</a></li>						
+					</ul>
+				</div>	<!--End of col-sm-4-->			
+				
+
+
+			<div class="col-xs-12">
+					<div class="col-sm-6 col-xs-12 no-pad footer-left">
+						<p class="white">© 2011 - 2017 Crafted. All Rights Reserved</p>
+		 			</div>
+					<div class="col-sm-6 col-xs-12 no-pad footer-right">
+						<p class="white">Designed &amp; Developed in New York</p>
+					</div>
+			</div>
+			
+
+		</div>
+
+</footer>
+<div id="sub-footer" class="dk-blue-bk">
+	<div class="container-80 padding-10">
+		<ul class="sub-footer-links">
+			<li><a href="../sitemap/index.html">Sitemap</li>
+		</ul>
+	</div>
+</div>
+
+
+        <!--script files-->
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script type="text/javascript" src="../js/jquery.easing.min.js"></script>
+        <script type="text/javascript" src="../js/jquery.vide.min.js"></script>
+        <script type="text/javascript" src="../js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="../js/jquery.flexslider-min.js"></script>
+        <script type="text/javascript" src="../js/wow.min.js"></script>
+        <script type="text/javascript" src="../js/jquery.stellar.min.js"></script>
+        <script type="text/javascript" src="../js/jquery.touchSwipe.min.js"></script>
+        <script type="text/javascript" src="../js/jquery.nicescroll.min.js"></script>
+        <script type="text/javascript" src="../js/jquery.magnific-popup.js"></script>
+	    <script type="text/javascript" src="../js/jquery.ba-bbq.migrate.min.js"></script>
+	    <script type="text/javascript" src="../js/jquery.ba-bbq.min.js"></script>
+	    <script type="text/javascript" src="../js/viewport.min.js"></script>
+	
+	    
+        <script type="text/javascript" src="../js/custom.min.js"></script>
+
+
+
+    <script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=81&cb=1804457237';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>
+ 

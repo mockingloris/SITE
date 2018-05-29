@@ -1,0 +1,91 @@
+	  <div class="hero-body">
+	    <div class="container">
+	      <div class="columns is-mobile">
+
+
+	      <div class="column is-two-thirds-mobile is-one-third-tablet is-half-desktop">
+			<div class="card">
+			  <div class="card-image">
+			  </div>
+			  <div class="card-content">
+<!-- 			    <div class="media">
+			      <div class="media-left">
+			        <figure class="image is-48x48">
+			          <img src="http://bulma.io/images/placeholders/96x96.png" alt="Image">
+			        </figure>
+			      </div>
+			      <div class="media-content">
+			        <p class="title is-4">J Smith</p>
+			        <p class="subtitle is-6">@johnsmith</p>
+			      </div>
+			    </div> -->
+
+			    <div class="content">
+				<p><b>Bank Name:</b> {{ account.bank_name }}</p>
+
+				<p><b>Account Name:</b> {{ account.account_name }}</p>
+
+				<p><b>Account Number: </b> {{ account.account_number }}</p>
+
+				<p><b>Phone Number: </b> {{ account.phone_number }}</p>
+
+				<p><b>Email:</b> {{ user.local.email }}</p>
+				
+				{{# if account.message}}
+				<p><b>Message:</b> {{ account.message }}</p>
+				{{/if}}
+			    <br>
+			      <small>{{account.created_at}}</small>
+			    </div>
+			  </div>
+			</div>
+	      </div>
+
+
+
+	      {{# if account.bank_names }}
+	      {{else}}
+	      <div class="column is-half-mobile is-one-third-tablet is-one-quarter-desktop commit-form">
+				<form action="/home" method="post">
+					  <p class="control">
+					   <!-- <h3 class="subtitle">Commit</h3> -->
+					  Commit
+					  </p>
+					<div class="control has-icons-left">
+					  <div class="select">
+					    <select name="commit_type">
+					      <option selected>Cryptocurrency</option>
+					      <option value="Bitcoin">Bitcoin</option>
+					      <option  value="Etherium">Etherium</option>
+					    </select>
+					  </div>
+					  <span class="icon is-left">
+					    <i class="fa fa-money" style="color: #00d1b2;"></i>
+					  </span>
+					</div><br>
+
+					<div class="field has-addons">
+					  <p class="control">
+					    <input class="input" type="text" name="commit_value" placeholder="e.g 5000" required>
+					  </p>
+					  <p class="control is-hidden-mobile">
+					    <a class="button is-static">
+					      Amount
+					    </a>
+					  </p>
+					</div>
+
+					<div class="field">
+						<div class="control">
+						<input type="submit" class="button is-success">
+						</div>
+					</div>
+				</form>
+	      </div>
+	      {{/if}}
+
+
+
+		  </div>
+	  	</div>
+	  </div>

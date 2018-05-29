@@ -1,0 +1,50 @@
+{
+  "name": "Techxodus",
+  "version": "0.1.1",
+  "description": "A tech starup based in Lagos, Nigeria",
+  "engines": {
+    "node": "6.11.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "latest",
+    "body-parser": "~1.0.0",
+    "connect-flash": "~0.1.1",
+    "connect-mongo": "^1.3.2",
+    "cookie-parser": "~1.0.0",
+    "cool-ascii-faces": "1.3.4",
+    "csurf": "^1.9.0",
+    "express": "~4.0.0",
+    "express-handlebars": "^3.0.0",
+    "express-session": "~1.0.0",
+    "express-validator": "^2.20.5",
+    "handlebars": "^4.0.6",
+    "hbs": "^4.0.1",
+    "moment": "^2.17.1",
+    "moment-timezone": "^0.5.11",
+    "mongoose": "~4.4",
+    "morgan": "~1.0.0",
+    "passport": "~0.1.17",
+    "passport-local": "~0.1.6",
+    "q": "^1.5.0",
+    "serve-favicon": "^2.2.0"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
